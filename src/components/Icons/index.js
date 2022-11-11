@@ -1,0 +1,15 @@
+export { default as UserIcon } from './UserIcon'
+export { default as HomeIcon } from "./HomeIcon";
+export { default as StarIcon } from "./StarIcon";
+export { default as GiftIcon } from "./GiftIcon";
+export { default as GoodsIcon } from "./GoodsIcon";
+export { default as SeachIcon } from "./SeachIcon";
+export { default as OrdersIcon } from "./OrdersIcon";
+export { default as DiscountIcon } from "./DiscountIcon";
+export { default as ExchangeIcon } from "./ExchangeIcon";
+export { default as Notification } from "./NotificationIcon";
+export { default as CherwonLeftIcon } from "./CherwonLeftIcon";
+export { default as ShoppingCartIcon } from "./ShoppingCartIcon";
+export { default as CherwonRightIcon } from "./CherwonRightIcon";
+export { default as ConfirmOrderIcon } from "./ConfirmOrderIcon";
+export { default as DiscountForimeiIcon } from "./DiscountForimeiIcon";
